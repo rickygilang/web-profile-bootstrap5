@@ -1,2 +1,2 @@
 # web-profile
-Web Profile using Laravel and Boostrap 5
+Simple Web Design using Laravel and Boostrap 5
