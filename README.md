@@ -1,2 +1,2 @@
-# lear-boostrap5
-Simple Web Design using Laravel and Boostrap 5
+# web-profile-boostrap5
+Web Profile using Laravel and Boostrap 5
